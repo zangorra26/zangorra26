@@ -1,0 +1,33 @@
+{
+  "Ads" : {
+    "AdColony" : {
+      "app_id" : "PASTE",
+      "banner_id" : "PASTE",
+      "interstitial_id" : "PASTE"
+    },
+    "AdMob" : {
+      "app_id" : "ca-app-pub-3940256099942544~3347511713",
+      "banner_id" : "ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id" : "ca-app-pub-3940256099942544/1033173712"
+    },
+    "DisplayAds" : "unityad",
+    "Facebook" : {
+      "banner_id" : "PASTE",
+      "interstitial_id" : "PASTE"
+    },
+    "StartApp" : {
+      "app_id" : "PASTE"
+    },
+    "UnityAds" : {
+      "banner_id" : "PASTE",
+      "game_id" : "PASTE",
+      "interstitial_id" : "PASTE"
+    }
+  },
+  "AppUpdates" : {
+    "app_name" : "myapps",
+    "app_updates" : "Bugs fixes and performance improvements",
+    "app_url" : "https://",
+    "app_version" : "2,4"
+  }
+}
